@@ -1,5 +1,5 @@
 //conditional statements
-const time=20;
+int time=20;
 if (time<10){
     print ("good morning");
 }
